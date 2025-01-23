@@ -4,5 +4,5 @@ sentence-transformers
 pypdf
 langchain_google_genai
 pinecone
-dotenv
+dotenv==0.0.5
 langchain_pinecone
