@@ -5,3 +5,4 @@ pypdf
 langchain_google_genai
 pinecone
 python-dotenv
+langchain_community
