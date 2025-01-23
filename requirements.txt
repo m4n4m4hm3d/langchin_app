@@ -1,0 +1,8 @@
+streamlit
+langchain
+sentence-transformers
+pypdf
+langchain_google_genai
+pinecone
+dotenv
+langchain_pinecone
