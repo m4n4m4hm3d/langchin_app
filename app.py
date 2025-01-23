@@ -45,7 +45,7 @@ rag_chain = create_retrieval_chain(retriver, qus_ans_chain)
 
 import streamlit as st
 
-st.image("Image/8gflcp.jpg", width=100)
+st.image("8gflcp.jpg", width=100)
 st.title('DEEP LEARNING WITH PYTHON')
 
 user_input = st.text_input("Ask anything about Deep learning")
