@@ -9,7 +9,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
 from pinecone import Pinecone, ServerlessSpec
 from langchain_pinecone import PineconeVectorStore
-from dotenv import load_dotenv
+from python_dotenv import load_dotenv
 
 load_dotenv()
 google_Api = os.getenv('GOOGLE_API_KEY')
