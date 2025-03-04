@@ -7,3 +7,4 @@ pinecone
 python-dotenv
 langchain_community
 langchain-huggingface
+langchain_pinecone
